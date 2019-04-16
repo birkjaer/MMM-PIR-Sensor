@@ -12,7 +12,7 @@ Module.register('MMM-PIR-Sensor',{
 	requiresVersion: "2.1.0",
 
 	defaults: {
-		sensorPIN: 22,
+		sensorPIN: 17,
 		invertSensorValue: false,
 		relayPIN: false,
 		relayOnState: 1,
